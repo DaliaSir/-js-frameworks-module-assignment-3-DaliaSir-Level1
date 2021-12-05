@@ -1,0 +1,16 @@
+.nav-brand-link {
+  text-decoration: none;
+  text-transform: uppercase;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
+.bg-dark {
+  background-color: $colour-tertiary !important;
+}
+
+.navbar-toggler {
+  border: none;
+}
